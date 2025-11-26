@@ -87,7 +87,9 @@ disp("FDM and Demultiplexing completed successfully!");
 
 <img width="765" height="622" alt="image" src="https://github.com/user-attachments/assets/5c14dc1f-c495-45c8-a1fe-72bd16de9442" />
 
+
 ## Tabulation
+
 ![WhatsApp Image 2025-11-26 at 3 47 23 PM](https://github.com/user-attachments/assets/4e644e22-7c47-40fd-b8b4-2840ed569caa)
 
 ## Result
